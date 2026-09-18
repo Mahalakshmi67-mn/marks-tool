@@ -1,0 +1,6 @@
+"""Statistics for a list of marks."""
+def average(marks) :
+    return sum(marks) / len(marks)
+def highest (mark) :
+    return max(marks)
+
